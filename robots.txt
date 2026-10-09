@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://konkos-design.github.io/viktoria-sobko-dentist/sitemap.xml
